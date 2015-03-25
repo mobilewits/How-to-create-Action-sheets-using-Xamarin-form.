@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="iOS/ActionSheetXamrineForm.iOS.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone5s.8.1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ActionSheetXamrineForm/ActionSheetPage.cs">
+    <Files>
+      <File FileName="ActionSheetXamrineForm/ActionSheetXamrineForm.cs" Line="4" Column="4" />
+      <File FileName="iOS/Info.plist" />
+      <File FileName="ActionSheetXamrineForm/ActionSheetPage.cs" Line="25" Column="25" />
+      <File FileName="ActionSheetXamrineForm/MyPage.cs" Line="1" Column="1" />
+      <File FileName="iOS/AppDelegate.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="ActionSheetXamrineForm.Droid" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

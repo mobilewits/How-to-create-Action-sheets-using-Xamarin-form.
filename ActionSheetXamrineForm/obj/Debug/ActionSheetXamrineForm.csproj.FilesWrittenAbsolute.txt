@@ -1,0 +1,7 @@
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/ActionSheetXamrineForm/ActionSheetXamrineForm/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/ActionSheetXamrineForm/ActionSheetXamrineForm/bin/Debug/Xamarin.Forms.Core.dll
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/ActionSheetXamrineForm/ActionSheetXamrineForm/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/ActionSheetXamrineForm/ActionSheetXamrineForm/bin/Debug/ActionSheetXamrineForm.dll.mdb
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/ActionSheetXamrineForm/ActionSheetXamrineForm/bin/Debug/ActionSheetXamrineForm.dll
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/ActionSheetXamrineForm/ActionSheetXamrineForm/obj/Debug/ActionSheetXamrineForm.dll
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/ActionSheetXamrineForm/ActionSheetXamrineForm/obj/Debug/ActionSheetXamrineForm.dll.mdb
